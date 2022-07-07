@@ -9,3 +9,6 @@ This project is to demonstrate data type manipulations and f string usage. It ta
 
 ## Day 3 - Treasure Island
 This project is to demonstrate control flows with if/else, nested if/else and logical operators. Based on response from the user, the game takes different path and each path ends into a different result.
+
+## Day 4 - Rock Scissors and Paper
+This project is to demonstrate usage of modules (random), lists and how to access list elements. Based on user's choice and randomly selected computer's choice the winner of the game is declared.
