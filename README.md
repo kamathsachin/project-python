@@ -12,3 +12,6 @@ This project is to demonstrate control flows with if/else, nested if/else and lo
 
 ## Day 4 - Rock Scissors and Paper
 This project is to demonstrate usage of modules (random), lists and how to access list elements. Based on user's choice and randomly selected computer's choice the winner of the game is declared.
+
+## Day 5 - Password Generator
+This project is to demonstrate usage of for loops and random functions. It takes total number of characters, numbers and symbols that is wanted in the password and generates the password accordingly.
