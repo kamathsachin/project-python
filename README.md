@@ -15,3 +15,6 @@ This project is to demonstrate usage of modules (random), lists and how to acces
 
 ## 05 - Password Generator
 This project is to demonstrate usage of for loops and random functions. It takes total number of characters, numbers and symbols that is wanted in the password and generates the password accordingly.
+
+## 06 - Hangman
+This project is to demonstrate usage of loops (for, while), creating and importing modules and writing conditional statements. A random word is selected and the user has 6 attempts to guess the word.
