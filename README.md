@@ -18,3 +18,6 @@ This project is to demonstrate usage of for loops and random functions. It takes
 
 ## 06 - Hangman
 This project is to demonstrate usage of loops (for, while), creating and importing modules and writing conditional statements. A random word is selected and the user has 6 attempts to guess the word.
+
+## 07 - Caeser Cipher
+This project is to demonstrate function creation and calling the functions. Based on user's input whether to encode or decode, the program takes user message and a shift number and encodes or decodes a message.
