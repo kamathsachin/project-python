@@ -21,3 +21,7 @@ This project is to demonstrate usage of loops (for, while), creating and importi
 
 ## 07 - Caeser Cipher
 This project is to demonstrate function creation and calling the functions. Based on user's input whether to encode or decode, the program takes user message and a shift number and encodes or decodes a message.
+
+## 08 - Secret Auction
+This project is to demonstrate dictionary creation and manipulation / accessing of the dictionary data. 
+In this program, names and bid amounts of the participants are collected and once all participants have entered their data, the winner is declared.
