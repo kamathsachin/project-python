@@ -25,3 +25,6 @@ This project is to demonstrate function creation and calling the functions. Base
 ## 08 - Secret Auction
 This project is to demonstrate dictionary creation and manipulation / accessing of the dictionary data. 
 In this program, names and bid amounts of the participants are collected and once all participants have entered their data, the winner is declared.
+
+## 09 - Calculator
+This project is to demonstrate functions which return output and recursion. It takes 2 numbers as user input and performs an operation that the user selects.
