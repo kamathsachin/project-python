@@ -1,4 +1,5 @@
 import random
+from art import logo
 
 
 ##################### Hints #####################
@@ -69,6 +70,7 @@ def compare(user_score, computer_score):
 
 
 def play_blackjack():
+    print(logo)
     # Hint 5: Deal the user and computer 2 cards each using deal_card() and append().
     user_cards = []
     computer_cards = []
