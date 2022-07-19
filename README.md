@@ -28,3 +28,20 @@ In this program, names and bid amounts of the participants are collected and onc
 
 ## 09 - Calculator
 This project is to demonstrate functions which return output and recursion. It takes 2 numbers as user input and performs an operation that the user selects.
+
+## 10 - Capstone Project - Blackjack
+This project is used to demonstrate all the fundamentals of python learnt till now. Below are the rules:
+
+The deck is unlimited in size.
+
+There are no jokers.
+
+The Jack/Queen/King all count as 10.
+
+The Ace can count as 11 or 1.
+
+The cards in the list have equal probability of being drawn.
+
+Cards are not removed from the deck as they are drawn.
+
+The computer is the dealer.
