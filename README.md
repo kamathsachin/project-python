@@ -45,3 +45,6 @@ The cards in the list have equal probability of being drawn.
 Cards are not removed from the deck as they are drawn.
 
 The computer is the dealer.
+
+## 11 - Number Guessing
+This project is to demonstrate conditional loops, functions, module creating and calling. It generates a random number and the user has to guess the number based on the attempts provided. Attempts are based on the difficulty level selected by the user.
