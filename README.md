@@ -47,4 +47,7 @@ Cards are not removed from the deck as they are drawn.
 The computer is the dealer.
 
 ## 11 - Number Guessing
-This project is to demonstrate conditional loops, functions, module creating and calling. It generates a random number and the user has to guess the number based on the attempts provided. Attempts are based on the difficulty level selected by the user.
+This project is to demonstrate conditional loops, functions, creating modules and calling it. It generates a random number and the user has to guess the number based on the attempts provided. Attempts are based on the difficulty level selected by the user.
+
+## 12 - Higher Lower
+This project is to demonstrate conditional loops, functions, creating modules and calling it. 2 set of questions are generated and user has to select an option which might have the highest follower count. If user selection is correct game continues and new options are generated. If the game continues, 2nd question becomes the 1st question and a new question for the 2nd question is generated.
