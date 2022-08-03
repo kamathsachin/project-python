@@ -51,3 +51,11 @@ This project is to demonstrate conditional loops, functions, creating modules an
 
 ## 12 - Higher Lower
 This project is to demonstrate conditional loops, functions, creating modules and calling it. 2 set of questions are generated and user has to select an option which might have the highest follower count. If user selection is correct game continues and new options are generated. If the game continues, 2nd question becomes the 1st question and a new question for the 2nd question is generated.
+
+## 14 - Coffee Machine - Object Oriented Programing
+This project is used to demonstrate OOP. In this project, the methods and attributes of various classes are provided based on which objects were created and the coffee maker was designed. Below are the requirement for the Coffee Maker:
+#### 1/ Print report
+#### 2/ Check resources sufficient
+#### 3/ Process coins
+#### 4/ Check transaction successful
+#### 5/ Make Coffee
