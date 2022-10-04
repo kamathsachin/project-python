@@ -59,3 +59,6 @@ This project is used to demonstrate OOP. In this project, the methods and attrib
 #### 3/ Process coins
 #### 4/ Check transaction successful
 #### 5/ Make Coffee
+
+## 15 - Quiz
+This project is used to demonstrate OOP. In this project, a quiz is created with the help of classes, methods and attributes.
