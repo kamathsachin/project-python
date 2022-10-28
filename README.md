@@ -68,3 +68,6 @@ This project demonstrates the use of modules. In this project, we are creating a
 
 ## 17 - Etch E Sketch
 This project demonstrates the use of functions and event handlers. In this project, based on the key pressed, the turtle will move in the direction assigned to the keys.
+
+## 18 - Turtle Race
+This project demonstrates objects state and instances. In this project we create 5 turtles of different color and take user input as a bit on which turtle will win.
