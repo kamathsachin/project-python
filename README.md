@@ -63,5 +63,8 @@ This project is used to demonstrate OOP. In this project, the methods and attrib
 ## 15 - Quiz
 This project is used to demonstrate OOP. In this project, a quiz is created with the help of classes, methods and attributes.
 
-## 15 - Hirst Painting
+## 16 - Hirst Painting
 This project demonstrates the use of modules. In this project, we are creating a spot painting similar to the ones created by Damien Hirst
+
+## 17 - Etch E Sketch
+This project demonstrates the use of functions and event handlers. In this project, based on the key pressed, the turtle will move in the direction assigned to the keys.
