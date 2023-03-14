@@ -71,6 +71,3 @@ This project demonstrates the use of functions and event handlers. In this proje
 
 ## 18 - Turtle Race
 This project demonstrates objects state and instances. In this project we create 5 turtles of different color and take user input as a bit on which turtle will win.
-
-## 20 - US States
-This project demonstrates the use of pandas and turtle library. In this project the player gets an option to guess all the 50 US states. When the player guesses the states, it is displayed on the map. In the end when the player exists a csv is created which contains the names of the states that the player couldn't guess.
