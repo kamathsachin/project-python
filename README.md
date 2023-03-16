@@ -71,3 +71,6 @@ This project demonstrates the use of functions and event handlers. In this proje
 
 ## 18 - Turtle Race
 This project demonstrates objects state and instances. In this project we create 5 turtles of different color and take user input as a bit on which turtle will win.
+
+# 22 - Nato Phonetic Alphabet
+This project demonstrates use of list and dictionary comprehensions. It reads the user input and provides an output in Nato phonetic alphabet format.
