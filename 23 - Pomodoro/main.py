@@ -11,11 +11,20 @@ WORK_MIN = 1
 SHORT_BREAK_MIN = 5
 LONG_BREAK_MIN = 20
 reps = 0
+timer = ""
 
 
 # ---------------------------- TIMER RESET ------------------------------- #
+def reset_timer():
+    window.after_cancel(timer)
+    canvas.itemconfig(timer_text, text="00:00")
+    lbl_timer.config(text="Timer")
+    lbl_check.config(text="")
+    global reps
+    reps = 0
 
-# ---------------------------- TIMER MECHANISM ------------------------------- # 
+
+# ---------------------------- TIMER MECHANISM ------------------------------- #
 def start_timer():
     global reps
     reps += 1
@@ -45,9 +54,15 @@ def countdown(count):
 
     canvas.itemconfig(timer_text, text=f"{count_min}:{count_sec}")
     if count > 0:
-        window.after(1000, countdown, count - 1)
+        global timer
+        timer = window.after(1000, countdown, count - 1)
     else:
         start_timer()
+        mark = ""
+
+        for _ in range(math.floor(reps / 2)):
+            mark += "✓"
+        lbl_check.config(text=mark, bg=YELLOW)
 
 
 # ---------------------------- UI SETUP ------------------------------- #
@@ -64,10 +79,10 @@ canvas.grid(column=1, row=1)
 btn_start = Button(text="Start", highlightthickness=0, command=start_timer)
 btn_start.grid(column=0, row=3)
 
-btn_end = Button(text="Reset", highlightthickness=0)
+btn_end = Button(text="Reset", highlightthickness=0, command=reset_timer)
 btn_end.grid(column=2, row=3)
 
-lbl_check = Label(text="✓", bg=YELLOW, fg=GREEN, font=(FONT_NAME, 40, "bold"))
+lbl_check = Label(bg=YELLOW, fg=GREEN, font=(FONT_NAME, 40, "bold"))
 lbl_check.grid(column=1, row=3)
 
 lbl_timer = Label(text="Timer", bg=YELLOW, fg=GREEN, font=(FONT_NAME, 40, "bold"))

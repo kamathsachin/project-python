@@ -77,3 +77,6 @@ This project demonstrates use of list and dictionary comprehensions. It reads th
 
 # 22 - Mile to Km Converter
 This project demonstrates creation of GUI components with Tkinter. As part of this project, the user entered miles is converted to kms.
+
+# 23 - Pomodoro
+This project demonstrates the use of Tkinter to create a Pomodoro application
