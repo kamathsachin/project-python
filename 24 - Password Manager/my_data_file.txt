@@ -1,5 +1,1 @@
-Microsoft | passwordmanager@hotmail.com | Microsoft
-Amazon | passwordmanager@hotmail.com | Amazon
-asdfasdfas | passwordmanager@hotmail.com | werwerwer
-sdfasdfas | passwordmanager@hotmail.com | werwerwer
-adfasdfasf | passwordmanager@hotmail.com | werwerwer
+my_website | passwordmanager@hotmail.com | my_password
